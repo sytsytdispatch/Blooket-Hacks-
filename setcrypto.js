@@ -1,5 +1,5 @@
 //made by chatgpt
-
+//set crypto to anything
 
 (() => {
     let isDragging = false;
